@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-VT-Official-0.1";
 const contentToCache = [
-    "Build/2dto3d.loader.js",
-    "Build/2dto3d.framework.js",
-    "Build/2dto3d.data",
-    "Build/2dto3d.wasm",
+    "Build/2d-3d.loader.js",
+    "Build/2d-3d.framework.js",
+    "Build/2d-3d.data",
+    "Build/2d-3d.wasm",
     "TemplateData/style.css"
 
 ];
