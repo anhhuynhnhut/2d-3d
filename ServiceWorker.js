@@ -1,9 +1,9 @@
 const cacheName = "VGU-VT-Official-0.1";
 const contentToCache = [
-    "Build/2d-3d.loader.js",
-    "Build/2d-3d.framework.js",
-    "Build/2d-3d.data",
-    "Build/2d-3d.wasm",
+    "Build/VirtualTour-1.0.loader.js",
+    "Build/VirtualTour-1.0.framework.js",
+    "Build/VirtualTour-1.0.data",
+    "Build/VirtualTour-1.0.wasm",
     "TemplateData/style.css"
 
 ];
